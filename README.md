@@ -1,16 +1,38 @@
-# LEVERAGING PUBLIC DATASETS TO DRIVE SOCIAL IMPACT
+# Using Python to Leverage Public Data for Social Impact
 
 ## DATA FOR IMPACT 2018
 
-This is the overview.
-
-### Prerequesites
+This is a repository for a workshop presented by the Madpy Python Meetup Group.  Our goal is to provide a friendly introduction to programming in Python and how it can be used on public data.
 
 #### Knowledge/experience
 
+Knowing Python is not a prerequisite. It helps if you are familiar with command line/terminal applications. All we ask is you that you bring your curiousity about data.
+
 #### Installing Python
 
+Installing Python can be overwhelming for a beginner, because there are many options and versions.
+
+You should install Python verison 3 (not 2).  Note that MacOS and most linux distributions usually come with Python 2 installed.
+
+The two ways I'd recommend are:
+- download it directly from [python.org](https://www.python.org/)
+- obtain a distribution like [Anaconda/miniconda](https://conda.io/docs/user-guide/install/index.html).
+
+Anaconda is a popular option because the full version provides a GUI for managing your environments, and it has prepackaged Python environments that have all the most popular packages preinstalled.
+
+
 #### The environment
+
+Once you have your Python environment you can run `pip install <package name>` to install a package.  The only requirements for this tutorial are `jupyter` and `pandas`.
+
+So:
+
+```
+pip install jupyter pandas
+```
+
+The Anaconda distribution would already have the appropriate packages installed.
+
 
 ### Getting the data
 
