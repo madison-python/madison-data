@@ -12,11 +12,11 @@ Knowing Python is not a prerequisite. It helps if you are familiar with command 
 
 Installing Python can be overwhelming for a beginner, because there are many options and versions.
 
-You should install Python verison 3 (not 2).  Note that MacOS and most linux distributions usually come with Python 2 installed.
+You should install Python version 3 (not 2).  Note that MacOS and most linux distributions usually come with Python 2 installed.
 
 The two ways I'd recommend are:
 - download it directly from [python.org](https://www.python.org/)
-- obtain a distribution like [Anaconda/miniconda](https://conda.io/docs/user-guide/install/index.html).
+- obtain a distribution like [Anaconda](https://docs.anaconda.com/anaconda/install/) use a package manager like [miniconda](https://conda.io/docs/user-guide/install/index.html).
 
 Anaconda is a popular option because the full version provides a GUI for managing your environments, and it has prepackaged Python environments that have all the most popular packages preinstalled.
 
